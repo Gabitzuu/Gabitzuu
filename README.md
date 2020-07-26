@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gabriel, i'm 16 years old and I'm studying Computer Science.
+My name is Gabriel, I'm 16 years old and I'm studying Computer Science.
 
 ## About me:
 - 🔭 I’m currently working on [**cybernode.host**](https://cybernode.host)
