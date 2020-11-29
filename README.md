@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Gabriel.</h1>
 <h3 align="center">I'm 16 years old and I'm studying Computer Science.</h3>
 
@@ -7,11 +5,11 @@
 
 - 🔭 I’m currently working on [CYBERNODE LTD.](https://cybernode.host)
 
-- 🌱 I’m currently learning **Nuxt.js, Rust, Golang**
-
 - 🔭 I’m currently working on [earthling.dev](https://earthling.dev)
 
 - 🔭 I’m currently working on [nexs.ro](https://nexs.ro)
+
+- 🌱 I’m currently learning **Nuxt.js, Rust, Golang**
 
 - 👨‍💻 All of my projects are available at (soon) [https://gabitzuu.dev](https://gabitzuu.dev)
 
