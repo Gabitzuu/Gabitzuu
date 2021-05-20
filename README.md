@@ -4,13 +4,21 @@
 
 <p align="left"> <a href="https://github.com/Gabitzuu"><img src="https://github-profile-trophy.vercel.app/?username=gabitzuu" alt="gabitzuu" /></a> </p>
 - 🔭 I’m currently working on [GAMENODE.RO](https://gamenode.ro/)
+
 - 🔭 I’m currently working on [earthling.dev](https://earthling.dev)
+
 - 🔭 I’m currently working on [nexs.gg](https://nexs.gg)
+
 - 🌱 I’m currently learning **Nuxt.js, Rust, Golang**
+
 - 👨‍💻 All of my projects are available at [https://gabitzuu.dev](https://gabitzuu.dev) (soon)
+
 - 💬 Ask me about **Typescript, Java, VueJS**
+
 - 📫 How to reach me **contact@gabitzuu.dev**
+
 - ⚡ Fun fact: **first time I didn't like Golang, now I actually enjoy it.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/1337gabitzuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="1337gabitzuu" height="30" width="40" /></a>
