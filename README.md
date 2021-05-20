@@ -3,6 +3,7 @@
 <h3 align="center">I'm 17 years old and I'm studying Computer Science. Also, I'm a networking enthusiast.</h3>
 
 <p align="left"> <a href="https://github.com/Gabitzuu"><img src="https://github-profile-trophy.vercel.app/?username=gabitzuu" alt="gabitzuu" /></a> </p>
+
 - 🔭 I’m currently working on [GAMENODE.RO](https://gamenode.ro/)
 
 - 🔭 I’m currently working on [earthling.dev](https://earthling.dev)
