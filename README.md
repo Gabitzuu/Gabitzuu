@@ -4,19 +4,15 @@
 
 <p align="left"> <a href="https://github.com/Gabitzuu"><img src="https://github-profile-trophy.vercel.app/?username=gabitzuu" alt="gabitzuu" /></a> </p>
 
-- 🔭 I’m currently working on [HUBFLAKE.RO](https://hubflake.ro/)
+- 🔭 I’m currently working at [HUBFLAKE.RO](https://hubflake.ro/) and [COMBATIX.IO](https://combatix.io)
 
-- 🔭 I’m currently working on [earthling.dev](https://earthling.dev)
-
-- 🔭 I’m currently working on [nexs.gg](https://nexs.gg)
-
-- 🌱 I’m currently learning **Nuxt.js, C, Golang**
+- 🌱 I’m currently learning **Nuxt.js, C (XDP & DPDK), Golang**
 
 - 👨‍💻 All of my projects are available at [https://gabitzuu.dev](https://gabitzuu.dev) (soon)
 
 - 💬 Ask me about **Typescript, Java, VueJS**
 
-- 📫 How to reach me **me@gabitzuu.dev**
+- 📫 How to reach me **gabriel@hubflake.ro**
 
 - ⚡ Fun fact: **first time I didn't like Golang, now I actually enjoy it.**
 
