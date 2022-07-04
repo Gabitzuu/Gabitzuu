@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gabriel.</h1>
-<h3 align="center">I'm 17 years old and I'm studying Computer Science. Also, I'm a networking enthusiast.</h3>
+<h3 align="center">I'm 18 years old and I'm studying Computer Science. Also, I'm a networking enthusiast.</h3>
 
 <p align="left"> <a href="https://github.com/Gabitzuu"><img src="https://github-profile-trophy.vercel.app/?username=gabitzuu" alt="gabitzuu" /></a> </p>
 
